@@ -18,7 +18,7 @@
             -   [ ] <a href="#about-section">About</a>
             -   [ ] When the user would click the About link they would then be directed to the About section of the page
 
-  -   [ ] The &lt;main&gt; element:
+-   [ ] The &lt;main&gt; element:
     -   [ ] This element usually follows the &lt;header&gt; element
     -   [ ] This element contains the main information of the webpage
 
