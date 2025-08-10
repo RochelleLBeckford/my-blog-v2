@@ -1,0 +1,68 @@
+* {
+    background-color: #f0bec9;
+}
+
+h1 {
+    text-align: center;
+    text-decoration: underline;
+    text-decoration-style: wavy;
+    text-underline-offset: 3px;
+    color: whitesmoke;
+    background-color: blueviolet;
+}
+
+h2 {
+    text-align: center;
+    text-decoration: underline;
+    text-decoration-style: wavy;
+    text-underline-offset: 3px;
+    color: whitesmoke;
+    background-color: blueviolet;
+}
+
+/* ~ This will remove the bullet points from the list items in the Nav Bar */
+nav li {
+    list-style: none;
+}
+
+/* ~ This will change the defauly bullet for lists to an open circle */
+li {
+    list-style: circle;
+}
+
+/* ~ This will create a flex continer or box arrange items in rows or columns -> the parent container */
+.flex-list {
+    display: flex;
+    justify-content: center;
+    /* justify-content: space-evenly; */
+    align-items: center;
+    /* list-style: none; */
+}
+
+/* ~ Specifically flexing the list items so they will be in a row instead of a column by default */
+.flex-list li {
+    background-color: lightblue;
+    margin: 10px;
+    padding: 10px;
+}
+
+/* ~ This will make sure the footer is fixed all the way to the bottom of the page -> making it the last item of the page */
+footer {
+    position: fixed;
+    bottom: 0;
+    /* left: 0; */
+    width: 100%;
+    display: flex;
+}
+
+/* ~ Remove the bullets from list items in the footer element */
+footer li {
+    list-style: none;
+}
+
+/*~ This will add styling to the <p> element in the footer element */
+footer p {
+    background-color: blueviolet;
+    color: white;
+    padding: 10px;
+}
