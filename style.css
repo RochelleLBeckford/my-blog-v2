@@ -39,7 +39,7 @@ li {
     /* list-style: none; */
 }
 
-/* ~ Specifically flexing the list items so they will be in a row instead of a column by default */
+/* ~ Specifically add stying to the list items sthat are flexed */
 .flex-list li {
     background-color: lightblue;
     margin: 10px;
