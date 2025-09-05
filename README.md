@@ -42,4 +42,5 @@
 
 ---
 
-- [ ] Link to visit the webpage: <a href="https://rlb-my-blog-v2.netlify.app/" target="_blank">rlb-my-blog-v2</a>
+- [ ] Link to visit the webpage:
+  - [ ] <a href="https://rlb-my-blog-v2.netlify.app/" target="_blank">rlb-my-blog-v2</a>
